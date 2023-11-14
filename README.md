@@ -1,1 +1,1 @@
-# Power Monitoring Starter Solution
+# Power Monitoring Advanced Solution
